@@ -1,0 +1,7 @@
+random
+numpy
+warnings
+tensorflow
+tensorflow_addons
+IPython
+matplotlib
