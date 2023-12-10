@@ -7,4 +7,4 @@ In this repository you will find a notebook giving you an CycleGAN and Pix2Pix a
 </figure>
 </div>
 
-This repository is for educational purposes only, and was part of a project at the Technical University in Chemnitz. Thanks to IAV Chemnitz for proposing this topic to us.
+This repository is for educational purposes only and was part of a project at Chemnitz University of Technology investigating if image to image translating could be a vald technique for data augmentation. Thanks to IAV Chemnitz for suggesting this topic. 
